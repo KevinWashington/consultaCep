@@ -1,19 +1,14 @@
-# consultacep
+# consultaCep
 
-## Project setup
-```
+Este projeto foi desenvolvido em VueJS, para o estudo de consumo de APIs em vue.
+
+## Instalação
+Instruções para instalar e configurar o ambiente de desenvolvimento.
+
+```bash
+cd consultaCep
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Como Usar
+Digite o cep que deseja no caixa e aperte o botão, então a página carregará as informações do cep digitado.
